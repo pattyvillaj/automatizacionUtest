@@ -20,5 +20,4 @@ public class UtestFormDataBasicPage {
             .located(By.xpath("//a[@class='btn btn-blue']"));
 
 
-
 }
