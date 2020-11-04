@@ -14,8 +14,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDataBasicPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDataBasicPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/OpenUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/OpenUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationDevices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationDevices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLastStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLastStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLocation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/registrationUtest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/registrationUtest.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -102,17 +106,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/registrationUtest.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state relative-caret-position="180">
+              <caret line="12" column="205" selection-start-line="12" selection-start-column="205" selection-end-line="12" selection-end-column="205" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLocation.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,8 +127,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="36" column="120" selection-start-line="36" selection-start-column="120" selection-end-line="36" selection-end-column="120" />
+            <state relative-caret-position="585">
+              <caret line="39" column="121" selection-start-line="39" selection-start-column="83" selection-end-line="39" selection-end-column="121" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,22 +137,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/questions/Answer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestLastStepPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormLocationPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="40" selection-start-line="6" selection-start-column="5" selection-end-line="7" selection-end-column="40" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -169,22 +161,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLastStep.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestLastStepPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="105">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -197,6 +177,30 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="61" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDevicesPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="72" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormLocationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="40" selection-start-line="6" selection-start-column="5" selection-end-line="7" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -223,9 +227,7 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/serenity.properties" />
         <option value="$PROJECT_DIR$/src/test/resources/features/registroUtest.feature" />
-        <option value="$PROJECT_DIR$/src/test/resources/features/registrationUtest.feature" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/OpenUp.java" />
         <option value="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/runners/RunnerTags.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/JoinsRegistration.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtesRegistrationrForm.java" />
@@ -236,22 +238,25 @@
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestHomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormLocationPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RestrationDevices.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLocation.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDevicesPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationDevices.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDataBasicPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestLastStepPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLastStep.java" />
-        <option value="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFinshFormPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/questions/Answer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/model/UtestData.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/registrationUtest.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/OpenUp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationDevices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLastStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLocation.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="303" />
+    <option name="x" value="191" />
     <option name="y" value="25" />
-    <option name="width" value="1137" />
+    <option name="width" value="1246" />
     <option name="height" value="794" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -295,6 +300,33 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="automatizacionUtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.automatizacionUtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatizacionUtest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automatizacionUtest" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.automatizacionUtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatizacionUtest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automatizacionUtest" type="462c0819:PsiDirectoryNode" />
+              <item name="questions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.automatizacionUtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatizacionUtest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automatizacionUtest" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="co.com.choucair.certification.automatizacionUtest" type="b2602c69:ProjectViewProjectNode" />
@@ -350,6 +382,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.automatizacionUtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automatizacionUtest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="co.com.choucair.certification.automatizacionUtest" type="b2602c69:ProjectViewProjectNode" />
@@ -448,41 +488,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunnerTags - 2020.11.04 at 14h 49m 36s.xml">
-      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RunnerTags - 2020.11.04 at 14h 51m 25s.xml">
-      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RunnerTags - 2020.11.04 at 15h 10m 53s.xml">
-      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RunnerTags - 2020.11.04 at 15h 15m 43s.xml">
-      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RunnerTags - 2020.11.04 at 15h 25m 33s.xml">
-      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RunnerTags - 2020.11.04 at 15h 33m 38s.xml">
-      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RunnerTags - 2020.11.04 at 15h 36m 23s.xml">
-      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RunnerTags - 2020.11.04 at 15h 41m 08s.xml">
-      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RunnerTags - 2020.11.04 at 15h 45m 12s.xml">
-      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="RunnerTags - 2020.11.04 at 15h 47m 21s.xml">
+      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2020.11.04 at 16h 05m 09s.xml">
+      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2020.11.04 at 16h 08m 53s.xml">
+      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2020.11.04 at 16h 20m 37s.xml">
+      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2020.11.04 at 16h 30m 30s.xml">
+      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2020.11.04 at 16h 32m 28s.xml">
+      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2020.11.04 at 16h 42m 26s.xml">
+      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2020.11.04 at 16h 44m 00s.xml">
+      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2020.11.04 at 16h 52m 10s.xml">
+      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2020.11.04 at 16h 54m 15s.xml">
       <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="303" y="25" width="1137" height="794" extended-state="0" />
+    <frame x="191" y="25" width="1246" height="794" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3004566" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28156146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -497,7 +537,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32952926" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28915662" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28879312" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.38483548" />
       <window_info anchor="bottom" id="Anonymous Apex" order="10" />
       <window_info anchor="bottom" id="Log Analyzer" order="11" />
@@ -564,16 +604,6 @@
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/OpenUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-screenplay-webdriver/2.0.90/658f44057cf4bc54c346a27f78bb8d9f6204c57a/serenity-screenplay-webdriver-2.0.90-sources.jar!/net/serenitybdd/screenplay/targets/Target.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -585,52 +615,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-screenplay/2.0.90/183fec962776f387b09861c25cb6fa09029ee4e/serenity-screenplay-2.0.90-sources.jar!/net/serenitybdd/screenplay/actors/OnStage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/model/UtestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+          <folding>
+            <element signature="e#1219#1220#0" expanded="true" />
+            <element signature="e#1259#1260#0" expanded="true" />
+            <element signature="e#1291#1292#0" expanded="true" />
+            <element signature="e#1321#1322#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1415#1416#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1479#1480#0" expanded="true" />
+            <element signature="e#1525#1526#0" expanded="true" />
+            <element signature="e#1563#1564#0" expanded="true" />
+            <element signature="e#1602#1603#0" expanded="true" />
+            <element signature="e#1637#1638#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1775#1776#0" expanded="true" />
+            <element signature="e#1805#1806#0" expanded="true" />
+            <element signature="e#1851#1852#0" expanded="true" />
+            <element signature="e#1889#1890#0" expanded="true" />
+            <element signature="e#1924#1925#0" expanded="true" />
+            <element signature="e#1955#1956#0" expanded="true" />
+            <element signature="e#2003#2004#0" expanded="true" />
+            <element signature="e#2043#2044#0" expanded="true" />
+            <element signature="e#2076#2077#0" expanded="true" />
+            <element signature="e#2105#2106#0" expanded="true" />
+            <element signature="e#2149#2150#0" expanded="true" />
+            <element signature="e#2185#2186#0" expanded="true" />
+            <element signature="e#2217#2218#0" expanded="true" />
+            <element signature="e#2245#2246#0" expanded="true" />
+            <element signature="e#2287#2288#0" expanded="true" />
+            <element signature="e#2321#2322#0" expanded="true" />
+            <element signature="e#2363#2364#0" expanded="true" />
+            <element signature="e#2401#2402#0" expanded="true" />
+            <element signature="e#2463#2464#0" expanded="true" />
+            <element signature="e#2517#2518#0" expanded="true" />
+            <element signature="e#2552#2553#0" expanded="true" />
+            <element signature="e#2583#2584#0" expanded="true" />
+            <element signature="e#2631#2632#0" expanded="true" />
+            <element signature="e#2671#2672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/questions/Answer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/JoinsRegistration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="270">
           <caret line="20" column="9" selection-start-line="8" selection-end-line="20" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/OpenUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationDataBasic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDevicesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="72" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="72" />
+        <state relative-caret-position="375">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -639,8 +709,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationDevices.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1175">
-          <caret line="84" column="102" selection-start-line="84" selection-start-column="102" selection-end-line="84" selection-end-column="102" />
+        <state relative-caret-position="30">
+          <caret line="2" column="92" selection-start-line="2" selection-start-column="92" selection-end-line="2" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLastStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -649,55 +726,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLocation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDataBasicPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="61" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestLastStepPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLastStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/registrationUtest.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormLocationPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="40" selection-start-line="6" selection-start-column="5" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="-274">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -714,10 +744,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/questions/Answer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDataBasicPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="285">
+          <caret line="19" column="61" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDevicesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="72" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormLocationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="40" selection-start-line="6" selection-start-column="5" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestLastStepPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -726,11 +806,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="36" column="120" selection-start-line="36" selection-start-column="120" selection-end-line="36" selection-end-column="120" />
+        <state relative-caret-position="585">
+          <caret line="39" column="121" selection-start-line="39" selection-start-column="83" selection-end-line="39" selection-end-column="121" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/registrationUtest.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="205" selection-start-line="12" selection-start-column="205" selection-end-line="12" selection-end-column="205" />
         </state>
       </provider>
     </entry>

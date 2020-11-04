@@ -1,6 +1,7 @@
 package co.com.choucair.certification.automatizacionUtest.stepdefinitions;
 
 
+import co.com.choucair.certification.automatizacionUtest.model.UtestData;
 import co.com.choucair.certification.automatizacionUtest.questions.Answer;
 import co.com.choucair.certification.automatizacionUtest.tasks.*;
 import cucumber.api.java.Before;
@@ -11,24 +12,26 @@ import net.serenitybdd.screenplay.GivenWhenThen;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
 
+import java.util.List;
+
 
 public class registrationUtestSteDefinitions {
 
     @Before
     public void setStage () { OnStage.setTheStage((new OnlineCast())); }
 
-    @Given("^than Ana wants to register on the Utest platform$")
-    public void thanAnaWantsToRegisterOnTheUtestPlatform() throws Exception{
-        OnStage.theActorCalled("Ana").wasAbleTo(OpenUp.thePage(), JoinsRegistration.OnthePage());
+    @Given("^than (.*) wants to register on the Utest platform$")
+    public void thanAnaWantsToRegisterOnTheUtestPlatform(String actor) throws Exception{
+        OnStage.theActorCalled(actor).wasAbleTo(OpenUp.thePage(), JoinsRegistration.OnthePage());
 
     }
 
     @When("^she enters her data in the registration form$")
-    public void sheEntersHerDataInTheRegistrationForm() {
-        OnStage.theActorInTheSpotlight().attemptsTo(RegistrationDataBasic.the("María", "Alvarez", "maria123@gmail.com", "April", "20", "1995"));
-        OnStage.theActorInTheSpotlight().attemptsTo(RegistrationLocation.the("Medellín", "050042", "Colombia"));
-        OnStage.theActorInTheSpotlight().attemptsTo(RegistrationDevices.the("MacOs", "Os X 10.6","Spanish", "Apple", "iPhone 6", "iOS 10.0"));
-        OnStage.theActorInTheSpotlight().attemptsTo(RegistrationLastStep.the("Asdfghj_1234567"));
+    public void sheEntersHerDataInTheRegistrationForm(List<UtestData> utestData) {
+        OnStage.theActorInTheSpotlight().attemptsTo(RegistrationDataBasic.the(utestData.get(0).getFirstName(), utestData.get(0).getLastName(), utestData.get(0).getEmailAddress(), utestData.get(0).getMonth(), utestData.get(0).getDay(), utestData.get(0).getYear() ));
+        OnStage.theActorInTheSpotlight().attemptsTo(RegistrationLocation.the(utestData.get(0).getCity(), utestData.get(0).getZip(), utestData.get(0).getCountry()));
+        OnStage.theActorInTheSpotlight().attemptsTo(RegistrationDevices.the(utestData.get(0).getYourComputer(),utestData.get(0).getVersion(), utestData.get(0).getLanguage(), utestData.get(0).getDevice(), utestData.get(0).getModel(), utestData.get(0).getOperatingSystem()));
+        OnStage.theActorInTheSpotlight().attemptsTo(RegistrationLastStep.the(utestData.get(0).getPassword()));
 
     }
 

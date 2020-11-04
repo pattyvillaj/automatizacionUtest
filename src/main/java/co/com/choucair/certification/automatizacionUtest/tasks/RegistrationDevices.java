@@ -1,7 +1,6 @@
 package co.com.choucair.certification.automatizacionUtest.tasks;
 
 import co.com.choucair.certification.automatizacionUtest.userinterface.UtestFormDevicesPage;
-import co.com.choucair.certification.automatizacionUtest.userinterface.UtestFormLocationPage;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;

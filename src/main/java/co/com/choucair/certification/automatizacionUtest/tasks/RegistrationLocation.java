@@ -1,27 +1,17 @@
 package co.com.choucair.certification.automatizacionUtest.tasks;
 
-import co.com.choucair.certification.automatizacionUtest.userinterface.UtestFormDataBasicPage;
 import co.com.choucair.certification.automatizacionUtest.userinterface.UtestFormLocationPage;
-import net.serenitybdd.core.pages.WebElementFacade;
 import net.serenitybdd.screenplay.Actor;
-import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.Hit;
-import net.serenitybdd.screenplay.actions.SelectFromOptions;
 import net.serenitybdd.screenplay.matchers.WebElementStateMatchers;
-import net.serenitybdd.screenplay.questions.Enabled;
 import net.serenitybdd.screenplay.questions.WebElementQuestion;
 import net.serenitybdd.screenplay.waits.Wait;
-import net.serenitybdd.screenplay.waits.WithTimeout;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.support.ui.Sleeper;
 
-import java.time.Duration;
-
-import static org.hamcrest.Matchers.is;
 
 public class RegistrationLocation implements Task {
     private String city, zip, country;
