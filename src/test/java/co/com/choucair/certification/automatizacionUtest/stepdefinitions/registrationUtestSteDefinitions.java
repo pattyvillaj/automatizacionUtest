@@ -3,6 +3,8 @@ package co.com.choucair.certification.automatizacionUtest.stepdefinitions;
 
 import co.com.choucair.certification.automatizacionUtest.tasks.JoinsRegistration;
 import co.com.choucair.certification.automatizacionUtest.tasks.OpenUp;
+import co.com.choucair.certification.automatizacionUtest.tasks.RegistrationDataBasic;
+import co.com.choucair.certification.automatizacionUtest.tasks.RegistrationLocation;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -24,6 +26,8 @@ public class registrationUtestSteDefinitions {
 
     @When("^she enters her data in the registration form$")
     public void sheEntersHerDataInTheRegistrationForm() {
+        OnStage.theActorInTheSpotlight().attemptsTo(RegistrationDataBasic.the("María", "Alvarez", "maria123@gmail.com", "April", "20", "1995"));
+        OnStage.theActorInTheSpotlight().attemptsTo(RegistrationLocation.the("Medellín", "050042", "Colombia"));
 
     }
 

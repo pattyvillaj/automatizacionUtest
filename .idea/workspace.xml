@@ -2,16 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9a4de13-5a4a-4e26-a1de-dca3dfb3e1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/runners/RunnerTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/automatizacionUtest/tasks/JoinsRegistration.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/automatizacionUtest/tasks/JoinsRegistration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/automatizacionUtest/userinterface/UtestRegistrationPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Utest#20Platform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.choucair.certification.automatizacionUtest.runners.RunnerTags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.choucair.certification.automatizacionUtest.runners.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Utest#20Platform.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.choucair.certification.automatizacionUtest.runners.RunnerTags.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/JoinsRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/JoinsRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestRegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1c8ca2c425600e70d3ac1dc94ccbdc21ccae71da5cd133080a3b81089a3ed1f5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/3de4f50d8a5e0e6285bc4e662e9dfaa07a0d0f54286ecacb3bf6c2440af6ac64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4218ebb3469a60ad263588d7523d64d78e40ac669e0906f7f457d70f67d62fb3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/85ff4aacd84140f61b797e5612a5a1e1a1519444a7a7f3352715308113bc4785.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8718045c15eaa9ebb5b7ab2815d203ba4c13cdb93fe3c91ccb982e84ec567f18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/96ba64e5b089e2378da930c2145fc69ee2c9bad3ee4e3018c87aec1f1758d3e1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-e97fd0dc118bf5d2af0566d4254252b2bcbec59f0b8651f55ac80f3794928152.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-e97fd0dc118bf5d2af0566d4254252b2bcbec59f0b8651f55ac80f3794928152.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a5051f75e5e569e966c724e27cb11759307ed2c992498d808e51a8b6184837c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c821f0326b67abe554e4af7870ad95c3ca4f70207ee4c359a27d8eb8c00cf65c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e97fd0dc118bf5d2af0566d4254252b2bcbec59f0b8651f55ac80f3794928152.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e97fd0dc118bf5d2af0566d4254252b2bcbec59f0b8651f55ac80f3794928152.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e97fd0dc118bf5d2af0566d4254252b2bcbec59f0b8651f55ac80f3794928152.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e97fd0dc118bf5d2af0566d4254252b2bcbec59f0b8651f55ac80f3794928152.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e97fd0dc118bf5d2af0566d4254252b2bcbec59f0b8651f55ac80f3794928152_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e97fd0dc118bf5d2af0566d4254252b2bcbec59f0b8651f55ac80f3794928152_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource2104523798005815882.html.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -82,30 +119,12 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/registrationUtest.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/runners/RunnerTags.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,10 +133,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLocation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="228">
+              <caret line="53" column="94" selection-start-line="53" selection-start-column="81" selection-end-line="53" selection-end-column="94" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,24 +145,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/JoinsRegistration.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormLocationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestRegistrationPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="195">
+              <caret line="13" column="93" selection-start-line="13" selection-start-column="93" selection-end-line="13" selection-end-column="93" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,45 +157,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/OpenUp.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDataBasicPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/serenity.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -216,17 +191,24 @@
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/OpenUp.java" />
         <option value="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/runners/RunnerTags.java" />
-        <option value="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/JoinsRegistration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtesRegistrationrForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationForm.java" />
+        <option value="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationDataBasic.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestRegistrationPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestHomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDataBasicPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLocation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormLocationPage.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="125" />
-    <option name="y" value="107" />
-    <option name="width" value="1103" />
-    <option name="height" value="794" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="355" />
+    <option name="width" value="1085" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -236,6 +218,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -339,14 +322,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="co.com.choucair.certification.automatizacionUtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automatizacionUtest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -354,7 +329,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -438,102 +412,102 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunnerTags - 2020.11.03 at 21h 50m 47s.xml">
+    <history-entry file="RunnerTags - 2020.11.04 at 12h 14m 33s.xml">
       <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="automatizacionUtest_[test] - 2020.11.03 at 21h 51m 17s.xml">
-      <configuration name="automatizacionUtest [test]" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="RunnerTags - 2020.11.03 at 21h 52m 16s.xml">
+    <history-entry file="RunnerTags - 2020.11.04 at 12h 15m 45s.xml">
       <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RunnerTags - 2020.11.03 at 21h 54m 06s.xml">
-      <configuration name="RunnerTags" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunnerTags - 2020.11.03 at 21h 58m 09s.xml">
+    <history-entry file="RunnerTags - 2020.11.04 at 12h 17m 11s.xml">
       <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RunnerTags - 2020.11.03 at 22h 10m 53s.xml">
+    <history-entry file="RunnerTags - 2020.11.04 at 12h 18m 25s.xml">
       <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RunnerTags - 2020.11.03 at 22h 12m 23s.xml">
+    <history-entry file="RunnerTags - 2020.11.04 at 12h 20m 00s.xml">
       <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RunnerTags - 2020.11.03 at 23h 15m 32s.xml">
+    <history-entry file="RunnerTags - 2020.11.04 at 12h 20m 54s.xml">
       <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RunnerTags - 2020.11.03 at 23h 16m 41s.xml">
+    <history-entry file="RunnerTags - 2020.11.04 at 12h 24m 42s.xml">
       <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="RunnerTags - 2020.11.03 at 23h 30m 48s.xml">
+    <history-entry file="RunnerTags - 2020.11.04 at 12h 25m 33s.xml">
+      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2020.11.04 at 12h 27m 11s.xml">
+      <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2020.11.04 at 12h 28m 18s.xml">
       <configuration name="RunnerTags" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="125" y="107" width="1103" height="794" extended-state="0" />
+    <frame x="355" y="0" width="1085" height="900" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25070688" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3106424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.32952926" />
-      <window_info anchor="bottom" id="Terminal" weight="0.23032904" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007153" side_tool="true" weight="0.38483548" />
-      <window_info anchor="bottom" id="Anonymous Apex" />
-      <window_info anchor="bottom" id="Log Analyzer" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32902297" />
-      <window_info anchor="bottom" id="SOQL Query" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.38362068" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.38915664" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" weight="0.32931727" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32952926" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29156625" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.38483548" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="10" />
+      <window_info anchor="bottom" id="Log Analyzer" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.32931727" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.34502104" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="0" weight="0.32952926" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.23032904" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5007153" side_tool="true" weight="0.38483548" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="3" />
-      <window_info anchor="bottom" id="Log Analyzer" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="SOQL Query" order="6" />
-      <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Find" order="8" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49928468" visible="true" weight="0.38483548" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info anchor="right" id="Maven" order="0" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Palette" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Gradle" order="4" weight="0.32931727" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3106424" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.6192771" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32952926" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29277107" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.38483548" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="10" />
+      <window_info anchor="bottom" id="Log Analyzer" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.32931727" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
@@ -556,14 +530,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/OpenUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
+        <state relative-caret-position="135">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -572,6 +542,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-screenplay-webdriver/2.0.90/658f44057cf4bc54c346a27f78bb8d9f6204c57a/serenity-screenplay-webdriver-2.0.90-sources.jar!/net/serenitybdd/screenplay/targets/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="35" column="50" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="50" />
+          <folding>
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/JoinsRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" selection-start-line="8" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -585,42 +578,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/stepdefinitions/registrationUtestSteDefinitions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="435">
+          <caret line="29" column="72" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestRegistrationPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationDataBasic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="555">
+          <caret line="37" column="97" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="97" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/JoinsRegistration.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormDataBasicPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="225">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/tasks/RegistrationLocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="53" column="94" selection-start-line="53" selection-start-column="81" selection-end-line="53" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/automatizacionUtest/userinterface/UtestFormLocationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="93" selection-start-line="13" selection-start-column="93" selection-end-line="13" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/automatizacionUtest/runners/RunnerTags.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
