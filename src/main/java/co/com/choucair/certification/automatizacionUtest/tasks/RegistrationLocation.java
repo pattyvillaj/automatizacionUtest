@@ -30,7 +30,6 @@ public class RegistrationLocation implements Task {
         this.city = city;
         this.zip = zip;
         this.country = country;
-        ;
 
     }
 
@@ -56,6 +55,7 @@ public class RegistrationLocation implements Task {
 
         actor.attemptsTo(Enter.theValue(this.country).into(UtestFormLocationPage.INPUT_COUNTRY),
                 Hit.the(Keys.ARROW_DOWN).into(UtestFormLocationPage.INPUT_COUNTRY),
+                Hit.the(Keys.ENTER).into(UtestFormLocationPage.INPUT_COUNTRY),
                 Click.on(UtestFormLocationPage.BUTTON_NEXTDIVICES));
 
     }
