@@ -31,6 +31,6 @@ Choucair
 
 ## Resultado Ejecución Automatización
 
-![reporte](img/ResultadoPrueba.png)
-![reporte](img/ResultadoPrueba1.png)
+![reporte](img/ResultadoPrueba.PNG)
+![reporte](img/ResultadoPrueba1.PNG)
 
