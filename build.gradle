@@ -32,6 +32,7 @@ dependencies {
     implementation "net.serenity-bdd:serenity-screenplay:$rootProject.ext.serenityVersion"
     implementation "net.serenity-bdd:serenity-screenplay-rest:$rootProject.ext.serenityVersion"
     implementation "net.serenity-bdd:serenity-cucumber:$rootProject.ext.serenityCucumberVersion"
+   // testImplementation("io.github.bonigarcia:webdrivermanager:5.0.3")
 
 }
 gradle.startParameter.continueOnFailure = true
