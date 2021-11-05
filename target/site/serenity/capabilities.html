@@ -104,7 +104,7 @@
             $("#requirements-tabs").tabs();
             $("#test-tabs").tabs();
 
-            var requirementsTree = [{"text":"Utest Plataform","type":"feature","href":"048d1c7ef17fb99b9cf0d97f480a9d6fa67b6f57aaee537a3b4a44477af5fbc1.html","nodes":[],"selectable":false,"tags":["\u003ca href\u003d\u0027##beforetable\u0027\u003e\u003ci class\u003d\u0027far fa-stop-circle pending-icon \u0027 title\u003d\u0027PENDING\u0027\u003e\u003c/i\u003e\u003c/a\u003e","\u003cspan class\u003d\u0027feature-count\u0027\u003e2 scenarios\u003c/span\u003e"]}];
+            var requirementsTree = [{"text":"Utest Plataform","type":"feature","href":"048d1c7ef17fb99b9cf0d97f480a9d6fa67b6f57aaee537a3b4a44477af5fbc1.html","nodes":[],"selectable":false,"tags":["\u003ca href\u003d\u0027##beforetable\u0027\u003e\u003ci class\u003d\u0027fa fa-check-circle-o success-icon \u0027 title\u003d\u0027SUCCESS\u0027\u003e\u003c/i\u003e\u003c/a\u003e","\u003cspan class\u003d\u0027feature-count\u0027\u003e2 scenarios\u003c/span\u003e"]}];
 
             $('#tree').treeview({
                 data: requirementsTree,
@@ -337,7 +337,7 @@
                                                                             <a style="margin-left:0.5em;padding-right: 1.5em;"
                                                                                href="76ee286838d45715c28ddbea7691b62d4c6456e4f126d3d4389368896ea9ad58.html"
                                                                                title="View test results">
-                                                                            <a href='##beforetable'><i class='far fa-stop-circle pending-icon ' title='PENDING'></i></a>
+                                                                            <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a>
                                                                             </a>
 
                                                                         
@@ -452,7 +452,7 @@
                                                 </div>
 
                                                 <div class="scenario-docs card" id="03115a7f9b147f5fb65ce25558e1702f3d4f162ebf938d143486ea9617180e3c">
-                                                    <div class="scenario-docs card-header pending" style="min-height:1.5em;">
+                                                    <div class="scenario-docs card-header success" style="min-height:1.5em;">
                                                         <div>
                                                             <span class="scenario-heading">
                                                                 <a href="76ee286838d45715c28ddbea7691b62d4c6456e4f126d3d4389368896ea9ad58.html" title="View test results">Utest registration</a>
@@ -460,23 +460,23 @@
                                                             <span class="scenario-result-icon">
                                                                 
 
-                                                                    <a href='##beforetable'><i class='far fa-stop-circle pending-icon ' title='PENDING'></i></a>
+                                                                    <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a>
                                                             </span>
                                                         </div>
                                                     </div>
                                                     <div class="scenario-docs card-body">
-                                                            <p>Given than Maria want register on the utest plataform</p>
+                                                            <p>Given than Sonia want register on the utest plataform</p>
                                                             <p><p>When she enters her data in the registration form</p>
 <table>
 <thead>
 <tr><th>firstname</th><th>lastname</th><th>email</th><th>month</th><th>day</th><th>year</th><th>city</th><th>zip</th><th>country</th><th>yourComputer</th><th>version</th><th>language</th><th>device</th><th>model</th><th>operatingSystem</th><th>password</th><th>ConfirmPassword</th></tr>
 </thead>
 <tbody>
-<tr><td>Sonia</td><td>Suarez</td><td>soniasuarez@gmail.com</td><td>May</td><td>12</td><td>1999</td><td>Bello</td><td>025120</td><td>Colombia</td><td>Linux</td><td>vista 64-bit</td><td>Spanish</td><td>Apple</td><td>iPhone 3G</td><td>iOS 3.0</td><td>870115632341Gladys</td><td>870115632341Gladys</td></tr>
+<tr><td>Maria</td><td>Villamil</td><td>marivilla@gmail.com</td><td>May</td><td>12</td><td>1999</td><td>Cucuta</td><td>025120</td><td>Colombia</td><td>Linux</td><td>vista 64-bit</td><td>Spanish</td><td>Apple</td><td>iPhone 3G</td><td>iOS 3.0</td><td>9517538246Pat</td><td>9517538246Pat</td></tr>
 </tbody>
 </table>
 </p>
-                                                            <p>Then validate the botton Complete Setup</p>
+                                                            <p>Then the registration is completed by clicking on the button Complete Setup</p>
                                                         <div class="examples">
                                                         </div>
 
@@ -497,10 +497,10 @@
                                             </div>
                                             <script>
 
-                                                var labels = ['20%', ' ', '60%', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '20%', ' ', ' ', ' '];
+                                                var labels = ['40%', ' ', '40%', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '20%', ' ', ' ', ' '];
                                                 // Our series array that contains series objects or in this case series data arrays
 
-                                                var series = [{meta: 'Passing tests (automated)', value: 1}, {meta: 'Passing tests (manual)', value: 0}, {meta: 'Pending tests (automated)', value: 3}, {meta: 'Pending tests (manual)', value: 0}, {meta: 'Ignored tests (automated)', value: 0}, {meta: 'Ignored tests (manual)', value: 0}, {meta: 'Skipped tests (automated)', value: 0}, {meta: 'Skipped tests (manual)', value: 0}, {meta: 'Failing tests (automated)', value: 0}, {meta: 'Failing tests (manual)', value: 0}, {meta: 'Broken tests (automated)', value: 1}, {meta: 'Broken tests (manual)', value: 0}, {meta: 'Compromised tests (automated)', value: 0}, {meta: 'Compromised tests (manual)', value: 0}];
+                                                var series = [{meta: 'Passing tests (automated)', value: 2}, {meta: 'Passing tests (manual)', value: 0}, {meta: 'Pending tests (automated)', value: 2}, {meta: 'Pending tests (manual)', value: 0}, {meta: 'Ignored tests (automated)', value: 0}, {meta: 'Ignored tests (manual)', value: 0}, {meta: 'Skipped tests (automated)', value: 0}, {meta: 'Skipped tests (manual)', value: 0}, {meta: 'Failing tests (automated)', value: 0}, {meta: 'Failing tests (manual)', value: 0}, {meta: 'Broken tests (automated)', value: 1}, {meta: 'Broken tests (manual)', value: 0}, {meta: 'Compromised tests (automated)', value: 0}, {meta: 'Compromised tests (manual)', value: 0}];
 
                                                 // As options we currently only set a static size of 300x200 px. We can also omit this and use aspect ratio containers
                                                 // as you saw in the previous example
@@ -541,16 +541,16 @@
                                                                         <a href="01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html"><i
                                                                                 class='fa fa-check-circle-o success-icon'></i>&nbsp;Passing</a>
                                                                     </td>
-                                                <td class="automated-stats">1</td>
-                                                <td class="automated-stats">20%</td>
+                                                <td class="automated-stats">2</td>
+                                                <td class="automated-stats">40%</td>
                                             </tr>
                                             <tr>
                                                                     <td class="aggregate-result-count">
                                                                         <a href="bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.html"><i
                                                                                 class='fa fa-stop-circle-o pending-icon'></i>&nbsp;Pending</a>
                                                                     </td>
-                                                <td class="automated-stats">3</td>
-                                                <td class="automated-stats">60%</td>
+                                                <td class="automated-stats">2</td>
+                                                <td class="automated-stats">40%</td>
                                             </tr>
                                             <tr>
                                                                 <td class="aggregate-result-count"><i
@@ -619,10 +619,10 @@
                                                     </thead>
                                                     <tbody>
                                                     <tr>
-                                                        <td> 1m 17s</td>
-                                                        <td>338d  4h  22m 43s</td>
+                                                        <td> 1m 16s</td>
+                                                        <td>339d  3h  30m 56s</td>
                                                         <td>160ms</td>
-                                                        <td>42s</td>
+                                                        <td>41s</td>
                                                         <td>15s</td>
                                                     </tr>
                                                     </tbody>
@@ -665,8 +665,8 @@
             <td>2</td>
             <td>0</td>
             <td>
-                <span class="status_icon"><a href='##beforetable'><i class='far fa-stop-circle pending-icon ' title='PENDING'></i></a></span>
-                <span style="display:none">2</span>
+                <span class="status_icon"><a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a></span>
+                <span style="display:none">1</span>
             </td>
 
             <td width="165px" style="padding:0px;">
@@ -675,34 +675,34 @@
 <table>
     <tr>
         <td width="40px" style="padding-top:4px;">
-            <div class="small" style="text-align:right;">50%</div>
+            <div class="small" style="text-align:right;">100%</div>
         </td>
         <td style="min-width:12.5em;">
             <div class="progress">
                 <div class="progress-bar" role="progressbar"
-                     style="width: 50%; background-color:#30cb23;"
-                     aria-valuenow="1"
+                     style="width: 100%; background-color:#30cb23;"
+                     aria-valuenow="2"
                      aria-valuemin="0"
                      aria-valuemax="2"
                      title="  - Total tests: 2
-  - Passing tests: 1 (50%)
+  - Passing tests: 2 (100%)
   - Failing tests: 0 (0%)
   - Tests with errors: 0 (0%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (50%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
-                     style="width: 50%; background-color:#A2C4EC;"
-                     aria-valuenow="1"
+                     style="width: 0%; background-color:#A2C4EC;"
+                     aria-valuenow="0"
                      aria-valuemin="0"
                      aria-valuemax="2"
                      title="  - Total tests: 2
-  - Passing tests: 1 (50%)
+  - Passing tests: 2 (100%)
   - Failing tests: 0 (0%)
   - Tests with errors: 0 (0%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (50%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
@@ -711,11 +711,11 @@
                      aria-valuemin="0"
                      aria-valuemax="2"
                      title="  - Total tests: 2
-  - Passing tests: 1 (50%)
+  - Passing tests: 2 (100%)
   - Failing tests: 0 (0%)
   - Tests with errors: 0 (0%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (50%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
@@ -724,11 +724,11 @@
                      aria-valuemin="0"
                      aria-valuemax="2"
                      title="  - Total tests: 2
-  - Passing tests: 1 (50%)
+  - Passing tests: 2 (100%)
   - Failing tests: 0 (0%)
   - Tests with errors: 0 (0%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (50%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
@@ -737,11 +737,11 @@
                      aria-valuemin="0"
                      aria-valuemax="2"
                      title="  - Total tests: 2
-  - Passing tests: 1 (50%)
+  - Passing tests: 2 (100%)
   - Failing tests: 0 (0%)
   - Tests with errors: 0 (0%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (50%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
@@ -750,11 +750,11 @@
                      aria-valuemin="0"
                      aria-valuemax="2"
                      title="  - Total tests: 2
-  - Passing tests: 1 (50%)
+  - Passing tests: 2 (100%)
   - Failing tests: 0 (0%)
   - Tests with errors: 0 (0%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (50%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
                 <div class="progress-bar" role="progressbar"
@@ -763,11 +763,11 @@
                      aria-valuemin="0"
                      aria-valuemax="2"
                      title="  - Total tests: 2
-  - Passing tests: 1 (50%)
+  - Passing tests: 2 (100%)
   - Failing tests: 0 (0%)
   - Tests with errors: 0 (0%)
   - Compromised tests 0 (0%)
-  - Pending tests: 1 (50%)
+  - Pending tests: 0 (0%)
   - Ignored or skipped tests: 0 (0%)">
                 </div>
             </div>
@@ -848,16 +848,16 @@
                                                                 style="display:none">SUCCESS</span>
                                                     </td>
                                                 </tr>
-                                                <tr class="scenario-result PENDING">
+                                                <tr class="scenario-result SUCCESS">
                                                     <td>
                                                             <a href="76ee286838d45715c28ddbea7691b62d4c6456e4f126d3d4389368896ea9ad58.html">Utest registration</a>
                                                     </td>
                                                     <td>3</td>
-                                                    <td>17:17:14</td>
-                                                    <td>00:42</td>
+                                                    <td>16:25:27</td>
+                                                    <td>00:41</td>
                                                     <td>
-                                                            <a href='##beforetable'><i class='far fa-stop-circle pending-icon ' title='PENDING'></i></a> <span
-                                                                style="display:none">PENDING</span>
+                                                            <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
+                                                                style="display:none">SUCCESS</span>
                                                     </td>
                                                 </tr>
                                                 </tbody>

@@ -31,10 +31,13 @@ public class RegistrationUtestDefinitions {
 
     @When("^she enters her data in the registration form$")
     public void sheEntersHerDataInTheRegistrationForm(List<DataUtes> dataUtesList) {
-        theActorInTheSpotlight().attemptsTo(DataBasic.theUser(dataUtesList.get(0)));
-        theActorInTheSpotlight().attemptsTo(DataLocation.theUser(dataUtesList.get(0)));
-        theActorInTheSpotlight().attemptsTo(DataDevices.theUser(dataUtesList.get(0)));
-        theActorInTheSpotlight().attemptsTo(LastStep.theUser(dataUtesList.get(0)));
+
+        theActorInTheSpotlight().attemptsTo(
+                DataBasic.theUser(dataUtesList.get(0)),
+                DataLocation.theUser(dataUtesList.get(0)),
+                DataDevices.theUser(dataUtesList.get(0)),
+                LastStep.theUser(dataUtesList.get(0))
+        );
     }
 
     @Then("^the registration is completed by clicking on the button (.*)$")
